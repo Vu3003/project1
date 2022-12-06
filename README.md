@@ -5,7 +5,7 @@ In this project, I want to figure out how do the gender, user type, user age aff
 
 ## Blog:
 
-
+https://medium.com/@trananhvu30032000/discover-properties-affect-on-individual-rides-in-a-bike-sharing-system-d12c42f865ef
 
 ## Install package: pip install -r requirements.txt
 
